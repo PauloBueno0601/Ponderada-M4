@@ -1,24 +1,22 @@
-# Ponderada-M4
-Atividades ponderadas do módulo 4
+# Ponderada - Módulo 4
 
 
 ## Parte 1 - LED
 
-No primeiro momento, explorei o código responsável por acionar um LED conectado ao Arduino. O código define qual pino será usado e alterna entre os estados “ligado” e “desligado” com um pequeno intervalo de tempo.
+Inicialmente, foi analisado o código responsável pelo acionamento de um LED conectado ao Arduino. O programa especifica o pino de saída utilizado e alterna o estado do LED entre ligado e desligado em intervalos regulares de tempo.
 
 Segue a imagem de demonstração:
 
-<img src="assets/imagem.jpeg" alt="Imagem de demonstração" width="400"/>
+<img src="assets/led.jpeg" alt="Imagem de demonstração" width="400"/>
 
 
-[ Clique aqui para ver o vídeo de demonstração](assets/video.mp4)
+[ Clique aqui para ver o vídeo de demonstração](assets\video.mp4)
 
 
 
 ## Parte 2 — Blink Externo
 
-Nesta etapa, realizei a simulação do circuito no TinkerCad.
-O circuito foi montado com um LED externo (OFF_BOARD), conectado ao pino digital 6 do Arduino, utilizando um resistor para limitar a corrente elétrica e proteger o LED.
+Nesta fase, foi realizada a simulação do circuito no TinkerCad. O sistema foi configurado com um LED externo (OFF_BOARD) conectado ao pino digital do Arduino, acompanhado de um resistor para limitar a corrente e garantir a proteção do componente.
 
 ![Circuito Pisca-Pisca](assets/tinkercad.png)
 
