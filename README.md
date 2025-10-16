@@ -36,4 +36,4 @@ Jumpers: cabos condutores que realizam as conexões entre os pinos do Arduino e 
 
 A simulação do circuito foi realizada no TinkerCad, utilizando um LED como elemento principal de teste.
 
-🔗 [Ver projeto no TinkerCad](https://www.tinkercad.com/things/d1yCmj3y2m4-copy-of-fabulous-lappi-hango?sharecode=RxoQIzwBeu4lNFtD3A4ueFK_J3Qy0REiZEHDNT5YCQE)
+🔗 [Ver projeto no TinkerCad](https://www.tinkercad.com/things/d5JDebmdUpF-ingenious-blorr?sharecode=r8KZVaabyJsxTJyoDTYQCAEKY5N1vupFRa6Fg9TO7qo)
